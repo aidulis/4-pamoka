@@ -1,0 +1,13 @@
+#pastraipa1{
+    background-color: greenyellow;
+}
+#pastraipa2{
+    background-color: mediumaquamarine;
+}
+.Div-bandymas{
+padding: 20px;
+border-left: 2px solid green;
+border-right: 3px solid blue;
+border-top: 4px solid magenta;
+border-bottom: 5px solid chocolate;
+}

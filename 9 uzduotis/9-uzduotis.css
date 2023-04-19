@@ -1,0 +1,13 @@
+body {
+    margin:0;
+    padding: 0;
+    background-color: bisque;
+}
+div {
+  margin-top: 20px;
+    background-color: yellow;
+  width: 320px;
+  height: 160px;
+  border: 5px dashed salmon;
+  overflow: auto;
+}

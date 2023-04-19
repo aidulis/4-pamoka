@@ -1,0 +1,10 @@
+.pastraipos-div{
+    display: block;
+    border: none;
+}
+.pastraipa{
+    border: 3px dotted black;
+    padding-left: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
